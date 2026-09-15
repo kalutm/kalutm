@@ -1,64 +1,66 @@
-Hi there, I'm Kaleb Tesfahun 👋
-Computer Science Student | Aspiring AI Engineer | Software Developer
+<h1 align="left">Hi there, I'm Kaleb Tesfahun 👋</h1>
 
-I am a final-year Computer Science student at Addis Ababa University. My primary focus is on Artificial Intelligence and Machine Learning, with a deep interest in understanding the architectural and mathematical foundations of models rather than treating them as black boxes.
+**Computer Science Student @ Addis Ababa University | Juniour AI Engineer**
 
-I have a strong foundation in practical software engineering, particularly in mobile development with Flutter and native Android, and I am currently working toward a career in AI engineering and AGI research.
+Building scalable software systems while diving deep into the math and architecture behind AI, Transformers, and AGI frameworks.
 
-🔭 Current Focus & Interests
-AI/ML & Architecture: Exploring Transformer models, Vision-Language-Action (VLA) models, and neuro-symbolic AGI frameworks. I'm highly interested in the math behind the models—from loss functions and backpropagation to tensor data flows.
+### 🚀 What I'm Up To
 
-Agent Workflows: Interning at iCog Labs, working with AI agent workflows, and learning about architectures like OpenCog Hyperon and MORK.
+- ⚙️ **Building:** Production mobile apps, robust backends, and neural networks from scratch
+- 🧠 **Researching:** AI agent workflows and neuro-symbolic AGI (Intern @ iCog Labs)
+- 🌱 **Exploring:** Vision-Language-Action (VLA) models, linear algebra, and low-level architecture
 
-Software Engineering: Building maintainable, decoupled applications using Flutter, FastAPI, and Kotlin.
+---
 
-Systems & Infrastructure: Working in Ubuntu environments, managing Python packages with uv, and exploring low-level computer architecture.
+### 💻 Tech Stack
 
-💻 Tech Stack
-Languages: Python, Dart, Kotlin, SQL
-AI & Data: PyTorch, CVXPY, LLM/VLM architectures, scikit-learn
-Mobile & Frontend: Flutter, Jetpack Compose, BLoC/Cubit, Hive, SQLite
-Backend & Cloud: FastAPI, Node.js (Express), PostgreSQL, MariaDB, SQLModel, Alembic, Firebase
-Tools & Environment: Linux (Ubuntu), Git/GitHub, Docker, VS Code, Android Studio
+**Languages & AI Core**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-🚀 Selected Projects
-Tiny Shakespeare GPT-Style Transformer
-A decoder-only Transformer model built entirely from scratch in PyTorch, trained on the Tiny Shakespeare dataset.
+**Mobile & Frontend**<br>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-Focus: Mathematical and architectural understanding of LLMs.
+**Backend & Databases**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-Features: Implemented multi-head self-attention, positional embeddings, feed-forward layers, residual connections, and custom training loops with GPU/CPU fallback.
+**Tools & Infrastructure**<br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Pharmaland
-A B2B marketplace mobile application connecting pharmacies, wholesalers, and importers.
+---
 
-Focus: Production-level mobile development and state management.
+### 🛠️ Featured Projects
 
-Features: Built the frontend using Flutter and BLoC. Handled complex token-based authentication workflows (access/refresh), pagination, search, and integrated an Express.js/MariaDB backend.
+*   **[Tiny Shakespeare Transformer]([https://github.com/kalutm/mini-gpt-shakespeare])** — Decoder-only GPT model built from scratch in PyTorch. Focuses on core architecture (multi-head attention, embeddings).
+*   **[Pharmaland]([https://play.google.com/store/apps/details?id=com.pharma_clean])** — Production B2B marketplace mobile app connecting pharmacies and wholesalers (Flutter, BLoC, Node.js).
+*   **[EDR VLM Booking Agent]([https://github.com/kalutm/edr-vlm-booking-agent])** — Academic implementations of soft-margin SVMs and Markowitz portfolio models using CVXPY.
+*   **[Finance Tracker]([https://github.com/kalutm/finance_tracker])** — Full-stack personal finance application featuring automated SMS parsing (Flutter, FastAPI, PostgreSQL).
+*   **[Optimization Notebooks]([https://github.com/kalutm/convex_opt_tasks])** — Academic implementations of soft-margin SVMs and Markowitz portfolio models using CVXPY.
+*   **[Debit Sync]([https://github.com/kalutm/debit_sync])** — A synchronized, serverless Flutter application designed to elegantly solve a common social problem: keeping track of who owes whom money.
+*   **[Work Log]([https://github.com/kalutm/work_log])** — A local-first time tracking and work logging and management Android app built with Flutter.
+---
 
-Convex Optimization & Portfolio Allocation
-Academic implementations of complex mathematical optimization problems.
+### 📊 GitHub Analytics
 
-Focus: Applied mathematics and machine learning fundamentals.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Your_GitHub_Username]&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_GitHub_Username]&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150"/>
+</p>
 
-Features: Formulated soft-margin SVMs and Markowitz mean-variance optimization models using CVXPY in Jupyter notebooks, benchmarking results against standard scikit-learn models.
+---
 
-Finance Tracker
-A full-stack personal finance application.
+### 📫 Connect With Me
 
-Focus: End-to-end system architecture and backend routing.
-
-Features: Flutter frontend backed by a FastAPI and PostgreSQL database. Included Google ID token validation, Alembic migrations, and automated local SMS transaction parsing.
-
-XStreamly
-A native Android media playback and streaming application.
-
-Focus: Native Android development and real-time data integration.
-
-Features: Built using Kotlin and Jetpack Compose, integrated with LiveKit for streaming capabilities.
-
-📈 GitHub Stats
-📫 Connect with Me
-LinkedIn: linkedin.com/in/your-profile
-
-Email: your.email@example.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/kaleb-tsefahun-016677308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kalebtesfahun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
