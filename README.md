@@ -39,20 +39,20 @@ Building scalable software systems while diving deep into the math and architect
 
 ### 🛠️ Featured Projects
 
-*   **[Tiny Shakespeare Transformer]([https://github.com/kalutm/mini-gpt-shakespeare])** — Decoder-only GPT model built from scratch in PyTorch. Focuses on core architecture (multi-head attention, embeddings).
-*   **[Pharmaland]([https://play.google.com/store/apps/details?id=com.pharma_clean])** — Production B2B marketplace mobile app connecting pharmacies and wholesalers (Flutter, BLoC, Node.js).
-*   **[EDR VLM Booking Agent]([https://github.com/kalutm/edr-vlm-booking-agent])** — A Vision-Language Model (VLM) browser agent for the Ethiopian-Djibouti Railway (EDR) booking website.
-*   **[Finance Tracker]([https://github.com/kalutm/finance_tracker])** — Full-stack personal finance application featuring automated SMS parsing (Flutter, FastAPI, PostgreSQL).
-*   **[Optimization Notebooks]([https://github.com/kalutm/convex_opt_tasks])** — Academic implementations of soft-margin SVMs and Markowitz portfolio models using CVXPY.
-*   **[Debit Sync]([https://github.com/kalutm/debit_sync])** — A synchronized, serverless Flutter application designed to elegantly solve a common social problem: keeping track of who owes whom money.
-*   **[Work Log]([https://github.com/kalutm/work_log])** — A local-first time tracking and work logging and management Android app built with Flutter.
+*   **[Tiny Shakespeare Transformer](https://github.com/kalutm/mini-gpt-shakespeare)** — Decoder-only GPT model built from scratch in PyTorch. Focuses on core architecture (multi-head attention, embeddings).
+*   **[Pharmaland](https://play.google.com/store/apps/details?id=com.pharma_clean)** — Production B2B marketplace mobile app connecting pharmacies and wholesalers (Flutter, BLoC, Node.js).
+*   **[EDR VLM Booking Agent](https://github.com/kalutm/edr-vlm-booking-agent)** — A Vision-Language Model (VLM) browser agent for the Ethiopian-Djibouti Railway (EDR) booking website.
+*   **[Finance Tracker](https://github.com/kalutm/finance_tracker)** — Full-stack personal finance application featuring automated SMS parsing (Flutter, FastAPI, PostgreSQL).
+*   **[Optimization Notebooks](https://github.com/kalutm/convex_opt_tasks)** — Academic implementations of soft-margin SVMs and Markowitz portfolio models using CVXPY.
+*   **[Debit Sync](https://github.com/kalutm/debit_sync)** — A synchronized, serverless Flutter application designed to elegantly solve a common social problem: keeping track of who owes whom money.
+*   **[Work Log](https://github.com/kalutm/work_log)** — A local-first time tracking and work logging and management Android app built with Flutter.
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[kalutm]&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[kalutm]&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalutm&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalutm&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
