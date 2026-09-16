@@ -15,7 +15,7 @@ Building scalable software systems while diving deep into the math and architect
 ### 💻 Tech Stack
 
 **Languages & AI Core**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python]([https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white])
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Mobile & Frontend**<br>
