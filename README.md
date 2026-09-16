@@ -15,7 +15,7 @@ Building scalable software systems while diving deep into the math and architect
 ### 💻 Tech Stack
 
 **Languages & AI Core**<br>
-![Python]([https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white])
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Mobile & Frontend**<br>
@@ -51,8 +51,8 @@ Building scalable software systems while diving deep into the math and architect
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalutm&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalutm&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[kalutm]&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[kalutm]&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
