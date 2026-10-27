@@ -6,7 +6,7 @@ Building scalable software systems while diving deep into the math and architect
 
 ### 🚀 What I'm Up To
 
-- ⚙️ **Building:** Production mobile apps, robust backends, and neural networks from scratch
+- ⚙️ **Building:** Production mobile apps, backends, and neural networks from scratch
 - 🧠 **Researching:** AI agent workflows and neuro-symbolic AGI (Intern @ iCog Labs)
 - 🌱 **Exploring:** Vision-Language-Action (VLA) models, linear algebra, and low-level architecture
 
